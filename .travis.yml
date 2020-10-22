@@ -5,3 +5,4 @@ scala:
 os:
   - linux
   - osx
+  - windows
